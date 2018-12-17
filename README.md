@@ -1,7 +1,7 @@
 # BreastCancerClassification
 ## A Machine Learning approach for the classification of breast cancer using the different classical Machine Learning Algorithms.
 
-![alt text](https://drive.google.com/file/d/1kO0h4oJT-wNX8Y_CtyX6KSYXvoMETza2/view)
+![thumbnail](https://user-images.githubusercontent.com/10113553/50084600-8a5a6d80-021d-11e9-874d-9a71fe8ed9c3.png)
 
 Breast cancer is one of the most widespread diseases among women all over the world. Correct and early diagnosis is an extremely important step in rehabilitation and treatment. However, it is not an easy one due to several uncertainties
 in detection using mammograms. Machine Learning (ML) techniques can be used to develop tools for physicians that can be used as an effective mechanism for early detection and diagnosis of breast cancer which will greatly enhance the survival
