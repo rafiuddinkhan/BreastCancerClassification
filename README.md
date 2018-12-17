@@ -1,4 +1,4 @@
-# BreastCancerClassification
+# Breast Cancer Classification
 ## A Machine Learning approach for the classification of breast cancer using the different classical Machine Learning Algorithms.
 
 ![thumbnail](https://user-images.githubusercontent.com/10113553/50084600-8a5a6d80-021d-11e9-874d-9a71fe8ed9c3.png)
