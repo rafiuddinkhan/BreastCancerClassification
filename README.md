@@ -10,4 +10,4 @@ diagnosis, namely Support Vector Machine (SVM), Random Forest (RF) and Bayesian 
 breast cancer data set was used as a training set to evaluate and compare the performance of the three ML classifiers in terms of key parameters such as accuracy, recall, precision and area of ROC.
 [Wisconsin Original Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original))
 The results obtained in this project provide an overview of the state of art ML techniques for breast cancer detection.
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
