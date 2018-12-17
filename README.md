@@ -10,7 +10,6 @@ diagnosis, namely:
 * Naive Bayes 
 * Support Vector Machine (SVM)
 * Random Forest (RF) 
-* Naive Bayes 
 * Logistic Regression 
 * Nearest Neighbor
 * Decision Tree
